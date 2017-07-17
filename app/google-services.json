@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "314013597171",
+    "firebase_url": "https://fir-practise-604e0.firebaseio.com",
+    "project_id": "fir-practise-604e0",
+    "storage_bucket": "fir-practise-604e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314013597171:android:1b51c108b05fbca8",
+        "android_client_info": {
+          "package_name": "com.example.bibesh.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314013597171-9mht85oi1pd1395s17aijt9v68cnhr1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADAh9QJFQS8TKh_34Nm-9Iblqaes6-FLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314013597171:android:6fbcd0d8cbd105dc",
+        "android_client_info": {
+          "package_name": "com.three.c.bibesh.finalfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314013597171-9mht85oi1pd1395s17aijt9v68cnhr1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADAh9QJFQS8TKh_34Nm-9Iblqaes6-FLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
